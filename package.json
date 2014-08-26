@@ -1,5 +1,5 @@
 {
-  "name": "yc-mid-resTime",
+  "name": "yc-mid-restime",
   "version": "0.0.1",
   "description": "yc middleware responseTime",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yc-team/yc-mid-resTime.git"
+    "url": "git://github.com/yc-team/yc-mid-restime.git"
   },
   "dependencies": {
   },
@@ -20,6 +20,6 @@
   "author": "zhangyaochun",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/yc-team/yc-mid-resTime/issues"
+    "url": "https://github.com/yc-team/yc-mid-restime/issues"
   }
 }
